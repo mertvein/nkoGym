@@ -1,4 +1,4 @@
-# nkoLean
+# nkoGym
 - Advanced Drinking Lean [QBCORE]
 - New QBCore
 
