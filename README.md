@@ -33,3 +33,4 @@ ensure nkoLean
 		["Güç"] = {["Current"] = 5.0, ["Stat"] = "MP0_STRENGTH", ["RemoveAmount"] = 0 }
 	}
 ```
+- Credit: <a href="https://github.com/gamziboi/gamz-skillsystem"> gamz-skillsystem </a>
