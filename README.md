@@ -12,8 +12,7 @@
 - Easy editable Config file
 - Easy editable language file
 - Low Resmon
-- Crafting new items ( like jolly, ice )
-- Lean item gives you effects like drunk
+- Thanks to the script, your driving development and features such as stamina are strengthened
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
