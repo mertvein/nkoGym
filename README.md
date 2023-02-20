@@ -1,5 +1,5 @@
 # nkoGym
-- Advanced Drinking Lean [QBCORE]
+- Advanced GYM [QBCORE]
 - New QBCore
 
 ## Video Showcase
