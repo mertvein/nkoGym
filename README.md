@@ -23,7 +23,7 @@
 - Add the following code to your server.cfg/resouces.cfg
 ```
 ensure gamz-skillsystem
-ensure nkoLean
+ensure nkoGym
 ```
 - Add the following lines to your qb-core/server/players.lua -> under Metadatas
 ```
