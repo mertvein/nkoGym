@@ -5,7 +5,7 @@
 ## Video Showcase
 - [https://youtu.be/AvXlYqjRAhE](https://youtu.be/AvXlYqjRAhE)
 ## Discord
-- https://discord.gg/nko
+- https://discord.gg/mert
 
 ## Features
 - Script using full qb-target
